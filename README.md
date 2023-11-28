@@ -1,3 +1,6 @@
+![](https://img.shields.io/github/v/release/EarlVadim/blynk-server.svg)
+[![Downloads](https://img.shields.io/github/downloads/EarlVadim/blynk-server/total.svg)](https://img.shields.io/github/downloads/EarlVadim/blynk-server/total.svg)
+
 # What is Blynk?
 
 ### Note that this Blynk Legacy server is now discontinued and unsupported!
